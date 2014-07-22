@@ -1,7 +1,7 @@
 #
 # Cookbook Name:: graphite-statsd-postgres
 
-template '/tmp/blah' do
+template '/usr/local/bin/blah' do
   source 'blah.txt.erb'
   mode 0644
   owner 'root'
