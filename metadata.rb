@@ -1,0 +1,6 @@
+name 'graphite-statsd-postgres'
+maintainer 'Joshua Lund'
+maintainer_email 'josh@joshlund.com'
+license 'MIT'
+description 'Includes a Graphite and StatsD cookbook in the Berkshelf, and makes small configuration changes to support connecting to a Postgres database.'
+version '0.0.1'
